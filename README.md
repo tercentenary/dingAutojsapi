@@ -1,10 +1,10 @@
 # dingAutojsapi
 这个是一个可以帮助你进行钉钉平台接入操作的jsapi.
 
-├── build                   # build files
-├── docs                    # Documentation  
-├── src                     # Source files  
-├── test                    # Automated tests  
+├── build                  # build files  
+├── docs                   # Documentation  
+├── src                    # Source files  
+├── test                   # Automated tests  
 ├── LICENSE
 
 └── README.md
